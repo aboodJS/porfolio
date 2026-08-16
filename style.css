@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: #0e1419;
+  color: #ffffff;
+}
+
+.elms-sans-normal {
+  font-family: "Elms Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.elms-sans-bold {
+  font-family: "Elms Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: bold;
+}
